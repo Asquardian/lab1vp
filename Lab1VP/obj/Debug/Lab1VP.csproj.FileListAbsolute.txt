@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\Lab1VP\Lab1VP\bin\Debug\Lab1VP.exe.config
+C:\Users\Lenovo\source\repos\Lab1VP\Lab1VP\bin\Debug\Lab1VP.exe
+C:\Users\Lenovo\source\repos\Lab1VP\Lab1VP\bin\Debug\Lab1VP.pdb
+C:\Users\Lenovo\source\repos\Lab1VP\Lab1VP\obj\Debug\Lab1VP.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Lab1VP\Lab1VP\obj\Debug\Lab1VP.Form1.resources
+C:\Users\Lenovo\source\repos\Lab1VP\Lab1VP\obj\Debug\Lab1VP.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Lab1VP\Lab1VP\obj\Debug\Lab1VP.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Lab1VP\Lab1VP\obj\Debug\Lab1VP.exe
+C:\Users\Lenovo\source\repos\Lab1VP\Lab1VP\obj\Debug\Lab1VP.pdb
